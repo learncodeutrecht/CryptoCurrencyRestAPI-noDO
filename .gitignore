@@ -3,3 +3,4 @@ secrets.json
 /venv_python3/*
 /venv/*
 /env/*
+/__pycache__/*
